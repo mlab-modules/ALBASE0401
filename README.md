@@ -10,18 +10,10 @@
 <!--- Name:ALBASE0401: --->
 # ALBASE0401
 <!--- LongName --->
-## ﻿Duralumin base board
+#### ﻿Duralumin base board
 <!--- ELongName ---> 
 
 <!--- Lead --->
 This base board has size 4x1 holes and standard MLAB grid 400mils (10.16mm). It is especially suited for simple measuring instruments and mobile robots constructions.
 <!--- ELead ---> 
-
-![ALBASE0401](doc/img/ALBASE0401_QRcode.png) 
-
-
-<!--- Description --->
-<!--- EDescription --->
-<!--- Content --->
-<!--- EContent --->
-<sub><sup> Generated with [MLABweb](https://github.com/MLAB-project/MLABweb). (2019-02-18)</sup></sub>
+![canvas](https://user-images.githubusercontent.com/5196729/236949506-5379010d-fea9-4d04-947c-76749c4aa9d8.png)
